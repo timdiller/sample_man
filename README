@@ -1,8 +1,0 @@
-This is a read me file. 
-There is nothing important here yet.
-
-this is an edit made directly from the github site by clicking "edit" on the file page.
-when you do this, and you are editing the file on your local machine, you have to remember to C-x C-v to reload the file from disk after it has been synchronized with the github repository.
-
-made from Aquamacs on Tim's laptop:
-In fact, it is probably easier to do the edits directly at the website for some cases. If you want to run LaTex, edit it locally, test run, then commit, then push. For comments like this or reviews, it makes a lot more sense to put them in right on the website.
